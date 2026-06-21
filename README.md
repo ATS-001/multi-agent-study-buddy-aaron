@@ -1,6 +1,6 @@
 # Multi-Agent Study Buddy (Google Antigravity SDK)
 
-An adaptive, conversational learning assistant built for the Google AI Agents Intensive Capstone Project. It splits responsibilities between a quiz-generating professor and a strict evaluator while implementing a custom file-writing tool guarded by human-in-the-loop security.
+An adaptive, conversational learning assistant built for the Google's X Kaggle's AI Agents: Intensive Vibe Coding Capstone Project {from "5-Day AI Agents: Intensive Vibe Coding Course With Google" Course} It splits responsibilities between a quiz-generating professor and a strict evaluator while implementing a custom file-writing tool guarded by human-in-the-loop security.
 
 ## 🚀 Setup & Installation
 
