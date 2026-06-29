@@ -53,6 +53,15 @@ When you upload your project files (`main.py`, `tools.py`, and this new `README.
 
 ---
 
-## 👤 Author
-* **Aaron Thalakkottor Sooraj" - B.Tech Computer Science & Engineering Student
+### 👨‍💻 Developer Profile
+* **Name:** Aaron Thalakkottor Sooraj
+* **Degree:** B.Tech in Computer Science Engineering (CSE)
+* **Institution:** Vidya Academy of Science and Technology, Thrissur
 * Project built for the Google AI Agents Intensive Capstone Project (2026)
+
+---
+
+### 📜 License
+```text
+COPYRIGHT © Since 2023 ATS-PDZ - ALL RIGHTS RESERVED.
+```
